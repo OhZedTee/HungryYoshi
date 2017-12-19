@@ -1,0 +1,26 @@
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\HungryYoshi.exe
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\HungryYoshi.pdb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\obj\x86\Debug\HungryYoshi.exe
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\obj\x86\Debug\HungryYoshi.pdb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\player.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Slingshot.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Rope.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Trampoline.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Bubble.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Pointer.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\pauseFont.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Spike.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Button.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\buttonFont.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Whoopee Cushion.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Apple.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Camera2D_XNA4.dll
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\obj\x86\Debug\HungryYoshi.csprojResolveAssemblyReference.cache
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Brick.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\circle.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\diamond.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\star.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Smoke.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\Background.xnb
+C:\Users\Ori\Desktop\ICS4U1\Assignments\ISU\HungryYoshi\HungryYoshi\HungryYoshi\HungryYoshi\bin\x86\Debug\Content\MenuBackground.xnb

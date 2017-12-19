@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HungryYoshi", "HungryYoshi\HungryYoshi\HungryYoshi.csproj", "{BCF96984-28D2-49F3-998C-80F7324B7A2C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "HungryYoshiContent", "HungryYoshi\HungryYoshiContent\HungryYoshiContent.contentproj", "{9C72B56E-C6BA-4E51-926E-D5DF166FAABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF96984-28D2-49F3-998C-80F7324B7A2C}.Debug|x86.ActiveCfg = Debug|x86
+		{BCF96984-28D2-49F3-998C-80F7324B7A2C}.Debug|x86.Build.0 = Debug|x86
+		{BCF96984-28D2-49F3-998C-80F7324B7A2C}.Release|x86.ActiveCfg = Release|x86
+		{BCF96984-28D2-49F3-998C-80F7324B7A2C}.Release|x86.Build.0 = Release|x86
+		{9C72B56E-C6BA-4E51-926E-D5DF166FAABD}.Debug|x86.ActiveCfg = Debug|x86
+		{9C72B56E-C6BA-4E51-926E-D5DF166FAABD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
